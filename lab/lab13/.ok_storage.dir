@@ -1,0 +1,5 @@
+'foldl-correct', (0, 70)
+'foldr-correct', (512, 70)
+'filterl-correct', (1024, 70)
+'reverse-correct', (1536, 70)
+'pairs-correct', (2048, 70)
